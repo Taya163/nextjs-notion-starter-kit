@@ -2,16 +2,16 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Blog-Post-625fa1e83d2b41388f688520065b22c2',
+  rootNotionPageId: '4577c4aeee3a44afa9737dce38ec922d',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'TayaWs blok',
+  domain: 'https://kit.taya163.com',
+  author: 'TayaW',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: '',
   github: 'Taya163',
-  linkedin: 'https://github.com/Taya163',
+  linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
