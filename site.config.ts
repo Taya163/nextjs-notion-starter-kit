@@ -49,16 +49,16 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  // navigationStyle: 'default'
-  navigationStyle: 'custom',
-  navigationLinks: [
-    {
-      title: '关于',
-      pageId: 'b697e5555b8848c680ababa5aca043fe'
-    },
-    {
-      title: '留言板',
-      pageId: 'ffa6cd57ef2844b58ba8b08672ce0a92'
-    }
-  ]
+  navigationStyle: 'default'
+//   navigationStyle: 'custom',
+//   navigationLinks: [
+//     {
+//       title: '关于',
+//       pageId: 'b697e5555b8848c680ababa5aca043fe'
+//     },
+//     {
+//       title: '留言板',
+//       pageId: 'ffa6cd57ef2844b58ba8b08672ce0a92'
+//     }
+//   ]
 })
