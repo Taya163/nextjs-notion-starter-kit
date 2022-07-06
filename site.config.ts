@@ -2,14 +2,14 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'c4dddc70c4b94f6ea9e14b9f729f7c21',
+  rootNotionPageId: '4577c4aeee3a44afa9737dce38ec922d',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'TayaWs blok',
+  name: 'TayaW blok',
   domain: 'https://kit.taya163.com',
   author: 'TayaW',
 
