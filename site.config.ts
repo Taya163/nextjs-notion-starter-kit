@@ -54,15 +54,15 @@ export default siteConfig({
   navigationLinks: [
     {
       title: '关于',
-      pageId: 'b697e5555b8848c680ababa5aca043fe'
+      pageId: '3668438baa4e4d5ea14febd5d335377c'
     },
     {
       title: '留言板',
-      pageId: 'ffa6cd57ef2844b58ba8b08672ce0a92'
+      pageId: 'bf59ee60d9664acdb795284f49386f4f'
     },
     {
       title: '图库',
-      pageId: 'b195cf43d9064abfb8677b27ccbb49f2'
+      pageId: '869c55bd0da54ef2b18a7508c9238b92'
     },
     {
       title: '首页',
