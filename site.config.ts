@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '8919dcfe543342f69ecd1a5bd656ce08',// Next-js-Notion-Starter-Kit-Template-1f92658494d04a57af2402093bcd3b83、
+  rootNotionPageId: 'TayaW-s-BLOG-8919dcfe543342f69ecd1a5bd656ce08',// Next-js-Notion-Starter-Kit-Template-1f92658494d04a57af2402093bcd3b83、
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
