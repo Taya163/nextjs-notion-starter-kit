@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'TayaW',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '长路漫漫，技术相伴',
 
   // social usernames (optional)
   twitter: '',
