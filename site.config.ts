@@ -53,20 +53,23 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: '关于',
-      pageId: '3668438baa4e4d5ea14febd5d335377c'
-    },
-    {
-      title: '留言板',
-      pageId: 'bf59ee60d9664acdb795284f49386f4f'
+      title: '首页',
+      pageId: 'TayaW-s-BLOG-8919dcfe543342f69ecd1a5bd656ce08'
+     
     },
     {
       title: '图库',
       pageId: '869c55bd0da54ef2b18a7508c9238b92'
+      
     },
     {
-      title: '首页',
-      pageId: 'TayaW-s-BLOG-8919dcfe543342f69ecd1a5bd656ce08'
+       title: '关于',
+      pageId: '3668438baa4e4d5ea14febd5d335377c'
+      
+    },
+    {
+      title: '留言板',
+      pageId: 'bf59ee60d9664acdb795284f49386f4f'
     }
   ]
 })
