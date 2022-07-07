@@ -63,6 +63,10 @@ export default siteConfig({
     {
       title: '图库',
       pageId: 'b195cf43d9064abfb8677b27ccbb49f2'
+    },
+    {
+      title: '首页',
+      pageId: '8eb85da06eca452f90232291aa136953'
     }
   ]
 })
