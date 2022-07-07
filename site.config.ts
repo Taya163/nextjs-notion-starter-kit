@@ -58,14 +58,18 @@ export default siteConfig({
      
     },
     {
-      title: '图库',
+      title:  '图库',
       pageId: '869c55bd0da54ef2b18a7508c9238b92'
       
     },
     {
        title: '关于',
-      pageId: '3668438baa4e4d5ea14febd5d335377c'
+       pageId: '3668438baa4e4d5ea14febd5d335377c'
       
+    },
+    {
+       title: '友链',
+       pageId: '1d191727c2f94a65a5ebee6fa7f9399b'
     },
     {
       title: '留言板',
