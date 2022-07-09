@@ -17,7 +17,7 @@ export default siteConfig({
   description: '长路漫漫，技术相伴',
 
   // social usernames (optional)
-  twitter: '',
+  twitter: '@TayaW37828491',
   github: 'Taya163',
   linkedin: '',
   // newsletter: '#', // optional newsletter URL
