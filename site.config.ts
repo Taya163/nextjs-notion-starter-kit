@@ -54,26 +54,26 @@ export default siteConfig({
   navigationLinks: [
     {
       title: '首页',
-      pageId: 'TayaW-s-BLOG-8919dcfe543342f69ecd1a5bd656ce08'
+      pageId: 'TayaW-s-BLOG-942a25acbcae4b47b69634fd88325179'
      
     },
     {
       title:  '图库',
-      pageId: '869c55bd0da54ef2b18a7508c9238b92'
+      pageId: 'fa1c3564b1ec4c94a502ed7794fb18d4'
       
     },
     {
        title: '关于',
-       pageId: '3668438baa4e4d5ea14febd5d335377c'
+       pageId: '828a7b41ee6747f1855c6e1248285f12'
       
     },
     {
        title: '友链',
-       pageId: '1d191727c2f94a65a5ebee6fa7f9399b'
+       pageId: '2160d8df7b354d11979857b608f0e69c'
     },
     {
       title: '留言板',
-      pageId: 'bf59ee60d9664acdb795284f49386f4f'
+      pageId: '6b5c4db1062343648aa98275dd9472ca'
     }
   ]
 })
