@@ -383,24 +383,4 @@
   display: none;
 }
 
-/*以下是我自己改的关于不想让块显示的*/
-
-/*首页*/
-
-/*友链*/
-.notion-block-2160d8df7b354d11979857b608f0e69c {
-	display:none;
-}
-/*留言*/
-.notion-block-6b5c4db1062343648aa98275dd9472ca {
-	display:none;
-}
-/*图库*/
-.notion-block-fa1c3564b1ec4c94a502ed7794fb18d4 {
-	display:none;
-}
-/*关于*/
-.notion-block-828a7b41ee6747f1855c6e1248285f12 {
-	display:none;
-}
 
