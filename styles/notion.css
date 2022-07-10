@@ -383,7 +383,9 @@
   display: none;
 }
 .notion-pet-view-container{
+  background:white !important;
+}
+#waline{
   background:white;
 }
-
 
