@@ -63,22 +63,32 @@ export default siteConfig({
     }
     ,
     {
+      title: '娱乐',
+      pageId: 'ce5cb9296aa44448b60a5408e4244ca5'
+    }
+    ,
+    {
       title:  '图库',
-      pageId: 'fa1c3564b1ec4c94a502ed7794fb18d4'
+      pageId: '4f161b76156247cf98e66abf748589ea'
       
     },
     {
-       title: '关于',
-       pageId: '828a7b41ee6747f1855c6e1248285f12'
-      
-    },
+      title: '归档',
+      pageId: 'c1a04aadfa42401092edd2245a158ede'
+    }
+    ,
     {
        title: '友链',
-       pageId: '2160d8df7b354d11979857b608f0e69c'
+       pageId: '9a9b0e6d336c4b7eaad70b5967f8484e'
+      
     },
     {
-      title: '留言板',
-      pageId: '6b5c4db1062343648aa98275dd9472ca'
+       title: '留言',
+       pageId: 'ead2268494da4ae89e5beb5cd0145da1'
+    },
+    {
+      title: '关于',
+      pageId: '815bc1f4d8c34f7f9acedd49c369ddf6'
     }
   ]
 })
