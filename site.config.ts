@@ -59,7 +59,7 @@ export default siteConfig({
     },
     {
       title: '文章',
-      ageId: '967efbe1db2c4c06b6394eefadb6e1df'
+      pageId: '967efbe1db2c4c06b6394eefadb6e1df'
     }
     ,
     {
