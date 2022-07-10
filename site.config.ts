@@ -58,6 +58,11 @@ export default siteConfig({
      
     },
     {
+      title: '文章',
+      ageId: '967efbe1db2c4c06b6394eefadb6e1df'
+    }
+    ,
+    {
       title:  '图库',
       pageId: 'fa1c3564b1ec4c94a502ed7794fb18d4'
       
