@@ -1,4 +1,7 @@
-# 以下是官方的文档
+
+# 这是我利用notion笔记搭建的基于nextjs-notion-starter-kit的博客，利用Notion（笔记软件）+Vercel（网络托管平台）+Next.js（一个用于生产环境的React 应用框架）搭建起来的
+
+## 以下是官方的文档
 
 
 <p align="center">
